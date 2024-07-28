@@ -1,4 +1,4 @@
-<h1 align="center">Sumon Rahman</h1>
+<h1 align="center">Mustafizur Rahman Sumon </h1>
 <h3 align="center">A passionate curious frontend developer from bangladesh</h3>
 
 - 🔭 I’m currently working on [Developer Portfolio](https://sumonrahman24.github.io/1st-conceptual-practice-project1/)
